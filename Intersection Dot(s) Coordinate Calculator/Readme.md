@@ -6,7 +6,7 @@ This is a function that can calculate the coordinate(s) of intersection dot(s)of
     •	Convert the square roots to simplest form.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
     Sample results:
-    There are two intersection points between (X-1)^2+(Y-9)^2=12^2 and 5X+0Y+1=0 . The coordnates of them are:
+        There are two intersection points between (X-1)^2+(Y-9)^2=12^2 and 5X+0Y+1=0 . The coordnates of them are:
         A1['-1/5', '9+1√571/2']
         A2['-1/5', '9-1√571/2']
 
