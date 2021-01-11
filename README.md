@@ -1,5 +1,5 @@
 ### Portfolio
-Document my projects and growth.
+### Document my projects and growth.
 
 Hi! It's Shiran Guo here, also goes by Sarah.
 
