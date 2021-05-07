@@ -7,10 +7,4 @@ I started coding in python at 2019, as a data analysis tool.
 Here documented all my projects from the very begining, some course work, some just for fun.
 Hope that I can become a data scientist one day.
 
-Thanks for watchingand have a nice day!
-
--------------------------------------
-
-#### Updates on 1/11/2021
-    Shelter Animal Outcome Prediction and Linear Regression, VIF, and Robustness Check projects are in R
-    Other projects used Python
+Thanks for watching and have a nice day!
