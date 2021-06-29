@@ -1,10 +1,11 @@
 This project is an assignment from Coursera see details below: 
-This project has wide-ranging uses and applications.  Create a VBA user form that will: 1) allow the user to add or delete new categories (user-defined) to a data table (these would be the columns/column headings) on a main worksheet, 2) allow the user to add or delete records (a row of a table), and 3) allow the user to look up different categories for a record (basically searching through the data and outputting a specific user-defined category) with the option of replacing those items.  Please see the screencasts related to this project for help and a demonstration of what you are trying to create. 
-
- 
+This project has wide-ranging uses and applications.  Create a VBA user form that will: 
+1) allow the user to add or delete new categories (user-defined) to a data table (these would be the columns/column headings) on a main worksheet, 
+2) allow the user to add or delete records (a row of a table)
+3) allow the user to look up different categories for a record (basically searching through the data and outputting a specific user-defined category) with the option of replacing those items.  
+Please see the screencasts related to this project for help and a demonstration of what you are trying to create. 
 
 Requirements
-
 1)	Main Form.  The main form should have options to add a category, delete a category, add a new record (row of a table), delete record, and search through the data (by using one of the categories).  A delete confirmation box should appear to confirm deletion of any categories. 
 
 Your main form might look something like this:
