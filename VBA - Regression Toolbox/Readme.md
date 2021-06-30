@@ -1,5 +1,3 @@
-VBA code password: 123456
-
 This project is an assignment from Coursera see details below: 
 
 In this project, you will create a user form that will allow the user to create a custom linear regression model using a user-hypothesized/chosen form of the model.  The user form will fit x-y data provided on the spreadsheet to the chosen model and will output the model parameters and the adjusted R-squared value, which is a measure of how well the model fits the experimental data.  Finally, your user form should give the user the option to plot the experimental data (as markers, no line) and the model predictions (no markers, solid and smooth line) on the same plot. 
