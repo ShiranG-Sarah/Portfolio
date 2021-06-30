@@ -4,6 +4,7 @@ Open the userform by clicking the 'RunUO' button here at the quick access toolba
 ![image](https://i.loli.net/2021/06/30/qhyuALHRXvkemfi.jpg)
 
 This project is an assignment from Coursera see details below: 
+
 This project has wide-ranging uses and applications.  Create a VBA user form that will: 
 1) allow the user to add or delete new categories (user-defined) to a data table (these would be the columns/column headings) on a main worksheet, 
 2) allow the user to add or delete records (a row of a table)
